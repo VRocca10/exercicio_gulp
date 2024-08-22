@@ -1,0 +1,1 @@
+function ಠ_ಠ223(ಠ_ಠ224,ಠ_ಠ225){return ಠ_ಠ224+ಠ_ಠ225}let resultado=ಠ_ಠ223(3,5);console.log("A soma é: "+resultado);
